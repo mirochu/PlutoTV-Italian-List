@@ -18,9 +18,10 @@ here is an example of the url:
 - Help, it isn't working, what can i do?
  
  Just open a issue, i'll try to fix it as soon as possible, oh also, use the issue page to request new channels!
-Alternative IP in http|  
-|--|--|
-|mirochu.000webhostapp.com/PlutoTV.m3u|
+
+
+Alternative IP in http
+`mirochu.000webhostapp.com/PlutoTV.m3u`
 
 ## That's it, thank you for using my list
 
@@ -41,9 +42,8 @@ se ti interessa ecco un url di esempio
 - Non funziona un canale o voglio aggiungerne qualcuno, cosa posso fare?
  
  Semplicemente apri una issue dove descrivi il problema o dove scrivi in canale che vuoi aggiunto, prenderò la richiesta in carico appena possibile.
-IP alternativo in http|  
-|--|--|
-|mirochu.000webhostapp.com/PlutoTV.m3u|
+IP alternativo in http
+`mirochu.000webhostapp.com/PlutoTV.m3u`
 ## Questo è tutto, Grazie per aver usato la mia lista.
 
 
