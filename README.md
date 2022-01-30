@@ -1,6 +1,8 @@
 # Pluto TV Channel List
-###[Eng](#ENG)
-###[Ita](#ITA)
+[Eng](#ENG)
+
+[Ita](#ITA)
+
 ####  ENG
 A really simple, distributed in m3u and enigma2 format, italian PlutoTV list
 - How does it work?
