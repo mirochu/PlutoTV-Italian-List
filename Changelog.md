@@ -1,4 +1,4 @@
-#Primo changelog
+# Primo changelog
 - Fixato "userboquets.pluto.tv" anche nello zip già pronto
 ###Qual era il problema?
 Semplicemente gli headers non erano corretti, quindi enigma2 pensava che i canali erano satellitari e non via IPTV
