@@ -42,6 +42,8 @@ se ti interessa ecco un url di esempio
 - Non funziona un canale o voglio aggiungerne qualcuno, cosa posso fare?
  
  Semplicemente apri una issue dove descrivi il problema o dove scrivi in canale che vuoi aggiunto, prenderò la richiesta in carico appena possibile.
+
+
 IP alternativo in http
 `mirochu.000webhostapp.com/PlutoTV.m3u`
 ## Questo è tutto, Grazie per aver usato la mia lista.
