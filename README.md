@@ -21,7 +21,7 @@ here is an example of the url:
 
 
 Alternative IP in http
-`mirochu.000webhostapp.com/PlutoTV.m3u`
+`http://mirochu.000webhostapp.com/PlutoTV.m3u`
 
 ## That's it, thank you for using my list
 
@@ -45,7 +45,7 @@ se ti interessa ecco un url di esempio
 
 
 IP alternativo in http
-`mirochu.000webhostapp.com/PlutoTV.m3u`
+`http://mirochu.000webhostapp.com/PlutoTV.m3u`
 ## Questo è tutto, Grazie per aver usato la mia lista.
 
 
